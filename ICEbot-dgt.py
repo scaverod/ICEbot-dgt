@@ -2,7 +2,7 @@ import argparse
 
 from selenium import webdriver
 
-PATH_CHROMEDRIVER = r"C:\Users\Sergio Cavero\Downloads\chromedriver"
+PATH_CHROMEDRIVER = "YOUR_PATH_HERE"
 OPTIONS = ['headless']
 
 parser = argparse.ArgumentParser()
