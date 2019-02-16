@@ -24,7 +24,7 @@ A la hora de ejecutar el programa será necesario asignar una ruta al driver si 
 A continuación se describe: 
 
 ##### Command Line 
-```
+```bash
 $ python3 ICEbot-dgt.py -h
 usage: ICEbot-dgt.py [-h] [-p PATH_CHROMEDRIVER] [-c]
 optional arguments:
