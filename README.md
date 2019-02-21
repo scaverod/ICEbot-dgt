@@ -11,7 +11,7 @@ Necesitarás:
 pip3 install selenium
 ```
 
-- [chromedriver](http://chromedriver.chromium.org): herramienta de código libre para pruebas automatizadas de aplicaciones web en muchos navegadores.
+- [chromedriver](http://chromedriver.chromium.org): herramienta de código libre para pruebas automatizadas de aplicaciones web en muchos navegadores. ***Imprescindible tener descargado [Google Chrome](https://www.google.com/intl/es_ALL/chrome/).*** 
 
 
 
